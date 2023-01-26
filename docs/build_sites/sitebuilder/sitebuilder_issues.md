@@ -44,7 +44,7 @@ Find solutions to problems when you use Site Builder in the latest version of HC
 
     -   **Problem:**
 
-        Two objects in HCL Portal cannot have the same unique name. The unique name of page being created with Site Builder is not set if another object exists with the same unique name. The unique name is skipped and site creation continues as normal.
+        Two objects in HCL Portal cannot have the same name. The unique name of page being created with Site Builder is not set if another object exists with the same unique name. The unique name is skipped and site creation continues as normal.
 
     -   **Resolution:**
 
