@@ -6,7 +6,7 @@ For more information about the administrative settings of Tivoli Federated Ident
 
 -   **[Finding the Identity Provider login URL and the Partner URL (TFIM)](outbhttp_auth_est_sso_tfim_idpp_url.md)**  
 In order to establish an SSO connection through Tivoli Federated Identity Manager, you must specify the Identity Provider login URL and the Partner URL. Learn how to find these values from the Tivoli Federated Identity Manager configuration if you do not already know them. If you know these values already, skip this step.
--   **[Creating Identity Provider settings at the Outbound Connection Service configuration (TFIM)](outbhttp_auth_est_sso_tfim_idpp_settings.md)**  
+-  
 Certain metadata settings such as the Identity Provider URL and the Partner URL are required to use Tivoli Federated Identity Manager Identity Provider for SSO connections through SAML 2.0 authentication protocol.
 -   **[Defining policy rules for the remote connection (TFIM)](outbhttp_auth_est_sso_tfim_rules.md)**  
 Learn about how to create a policy rule for the SSO connection. Creating a policy rule is required to use the SSO connection for the Identity Provider that you registered.
