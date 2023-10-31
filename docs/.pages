@@ -1,8 +1,9 @@
 nav:
     - index.md
-    - overview
+    - get_started
     - whatsnew
-    - platform
-    # - reference
-#    - DX Traditional: dxtraditional
-#    - Designing with DX: allnewfeatures
+    - deployment
+    - build_sites
+    - manage_content
+    - extend_dx
+    - guide_me
